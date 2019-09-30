@@ -8,6 +8,6 @@ public class DoubleRounded {
 				
 				double rounded = Math.round(R * 100.0) / 100.0;
 				
-				System.out.println("The rounded value =" +rounded);
+				System.out.println("The roundedvalue =" +rounded);
 	}
 }
